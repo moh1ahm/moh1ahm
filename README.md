@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @moh1ahm
-- 👀 I’m mechanical engineer with +7 year of experince.
-      Currently I am working as Simualtion Engineer (Structural Analsyis).
+- 👀 I’m mechanical engineer with +7 year of experience.
+      Currently I am working as Simulation Engineer (Structural Analysis).
       I am interested in AI.
-- 🌱 I’m currently learning Pyhton and releated libriairs.
+- 🌱 I’m currently learning Python and related libraires.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me "morehb@gmail.com
 
